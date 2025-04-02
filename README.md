@@ -32,5 +32,5 @@ I am a first-year computer scientist at UCSB, intending to focus on **software e
 - 🕹️ 3D Unity game physics and animation
 
 ## 📫 Contact Information
-- [LinkedIn](www.linkedin.com/in/rickey-chiu-894b58294)
-- [Email](chiurickey@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rickey-chiu-894b58294)
+- [Email](mailto:chiurickey@gmail.com)
