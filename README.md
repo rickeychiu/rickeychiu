@@ -6,18 +6,18 @@ I am a first-year computer scientist at UCSB, intending to focus on **software e
 
 ## 🛠 Skills
 
-### 💻 Programming Languages (プログラミング言語)
+### 💻 Programming Languages 
 - **Fluent** (得意): Java, C++
 - **Intermediate** (中級): Python, Swift, C#
 - **Beginner** (初級): HTML
 
-### 🌐 Languages (言語)
+### 🌐 Languages 
 - **Native** (母語): 🇺🇸🇬🇧 English 英語
 - **Fluent** (流暢): 🇹🇼🇨🇳 Mandarin 中文
 - **Advanced** (上級): 🇯🇵 Japanese 日本語
 - **Beginner** (初級): 🇰🇷 Korean 한국어
 
-### ⚙️ IDE and Creative Tools (開発・クリエイティブツール)
+### ⚙️ IDE and Creative Tools 
 - 🖥️ VS Code, IntelliJ, Xcode, Eclipse
 - 🎮 Unity Game Engine
 - 🎨 Adobe Illustrator, Photoshop, Lightroom
