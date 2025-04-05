@@ -25,20 +25,20 @@ I am a first-year computer scientist at UCSB, intending to focus on **software e
 
 ---
 
-## 💭 Interested In (興味のある分野)
+## 💭 Interested In 
 - 🤖 AI-powered productivity tools
 - 🧠 Educational apps and games for learning
 - 🖼️ Interactive visualizations with SwiftUI & graphics APIs
 
 ---
 
-## 🌱 Currently Learning (現在学習中)
+## 🌱 Currently Learning
 - 🐍 PyTorch and other AI-related libraries
 - 🗃️ Advanced C++ algorithms and data structures
 - 🕹️ 3D Unity game physics and animation
 
 ---
 
-## 📫 Contact Information (連絡先)
+## 📫 Contact Information
 - [LinkedIn](https://www.linkedin.com/in/rickey-chiu-894b58294)
 - [Email](mailto:chiurickey@gmail.com)
