@@ -9,7 +9,8 @@ I am a first-year computer scientist at UCSB, intending to focus on **software e
 ### 💻 Programming Languages 
 - **Fluent** (得意): Java, C++
 - **Intermediate** (中級): Python, Swift, C#
-- **Beginner** (初級): HTML
+- **Beginner** (初級): HTML, CSS
+- **Other** (他): LaTeX, Markdown
 
 ### 🌐 Languages 
 - **Native** (母語): 🇺🇸🇬🇧 English 英語
@@ -20,8 +21,8 @@ I am a first-year computer scientist at UCSB, intending to focus on **software e
 ### ⚙️ IDE and Creative Tools 
 - 🖥️ VS Code, IntelliJ, Xcode, Eclipse
 - 🎮 Unity Game Engine
-- 🎨 Adobe Illustrator, Photoshop, Lightroom
-- 🗂️ Google Drive, Docs, Sheets
+- 🎨 Adobe Illustrator, Photoshop, Lightroom, Canva, Figma
+- 🗂️ Google Drive, Docs, Sheets, Notion
 
 ---
 
