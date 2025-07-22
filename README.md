@@ -1,6 +1,6 @@
 # Hello, I'm Rickey! 🧢
 
-I am a first-year computer scientist at UCSB, intending to focus on **software engineering**, **artificial intelligence**, **machine learning**, **computer graphics**, and **game design**. I also have interdisciplinary interests in **education**, **graphic design**, the **natural sciences**, and **East Asian studies**.
+I am a second-year computer scientist at Columbia, intending to focus on **software engineering**, **artificial intelligence**, **machine learning**, **computer graphics**, and **game design**. I also have interdisciplinary interests in **education**, **graphic design**, the **natural sciences**, and **East Asian studies**.
 
 **UCSBの1年生で、ソフトウェア工学、人工知能、機械学習、コンピュータグラフィックス、ゲームデザインに関心があります。教育、グラフィックデザイン、自然科学、東アジア研究など、学際的な分野にも興味があります。**
 
